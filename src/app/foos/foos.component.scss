@@ -1,0 +1,135 @@
+h5{
+    font-size: 14px;
+}
+
+.rows{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+
+.desktop{
+
+    padding: 2px 5px;
+    background: red;
+    border-radius: 90px;
+    color: white;
+    font-size: 14px;
+    font-weight: 900;
+    margin: 0 0 0 5px;
+}
+
+
+ .couln{
+    margin-left: 75px;
+    padding-top: 12px;
+ }
+.couln a{
+    text-decoration: none;
+    color: #696b79;
+    padding: 2px;
+display: flex;
+}
+
+.couln img{
+    height: 40px;
+    padding: 0px 2px;
+    cursor: pointer;
+}
+
+.couln p{
+    padding-top: 7px;
+}
+
+.couln i{
+    color: rgb(47, 44, 44);
+    cursor: pointer;
+    padding: 1px 4px;
+    font-size: 24px;
+}
+
+
+.dol{
+    margin-top: 30px;
+  display: flex;
+  
+  }
+  
+  .dol span{
+      max-width: 48%;
+      padding: 0px 8px;
+      font-size: 17px;
+      color: #696b79;
+  }
+
+  
+.biom{
+    font-size: 14px;
+   margin-left: 65px;
+    color: #696b79;
+}
+
+
+.khanif{
+    margin-left: 37px;
+    padding: 30px;
+    max-width: 94%;
+}
+
+.khanif>a {
+    text-decoration: none;
+    color: #696b79;
+    font-size: 15px;
+    line-height: 25px;
+
+}
+
+.khanif>a:after {
+    content: "|";
+    margin-left: 5px;
+}
+
+.bill{
+    display: flex;
+    margin-left: 60px;
+   
+}
+.tall{
+    width: 60%;
+}
+.tall a{
+    text-decoration: none;
+    color: rgb(33, 33, 243);
+}
+.shall{
+    float: right;
+  width: 39%;
+}
+
+.shieldd{
+    padding-top: 24px;
+    margin-left: 58px;
+}
+
+.shieldd p{
+    color: #696b79;
+    font-size: 14px;
+    margin-left: 8px;
+    max-width: 94%;
+}
+
+.kiopu{
+    padding-top: 10px;
+}
+
+.kiopu ul{
+    max-width: 94%;
+   
+}
+
+.kiopu li{
+    list-style: none;
+    color: #696b79;
+    font-size: 14px;
+    padding: 6px;
+}

@@ -1,0 +1,32 @@
+.maindiv{
+
+    width: 300px;
+  height: 250px;
+ left: 50%;
+  position: absolute;
+ 
+    background-image: url("https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2021/7/8/8e4588c1-6f55-4b46-bfcb-1f7b104cc0d71625755520545-Weekend-sale_DK-2.jpg");
+    background-size: 100% 100%;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 2px 10px 5px blueviolet;
+    animation: hud 10s infinite linear;
+}
+
+@keyframes hud{
+    0%{
+        background-image: url("https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2021/7/8/8e4588c1-6f55-4b46-bfcb-1f7b104cc0d71625755520545-Weekend-sale_DK-2.jpg");   
+    }
+
+    35%{
+        background-image: url("https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2020/10/27/cdabd3fb-0df3-49ed-b092-e011722b3bab1603822195432-Watches_Desktop.jpg"); 
+    }
+
+    70%{
+        background-image: url("https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2020/10/27/98f1e2ab-41a5-4156-ae43-60aa524b8d351603822195467-Shirt_Desk.jpg");
+    }
+}
+
+.hio{
+    padding-top: 230px;
+}
+

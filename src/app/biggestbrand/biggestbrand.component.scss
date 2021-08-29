@@ -1,0 +1,35 @@
+
+.siopo{
+    padding-top: 40px;
+    margin: 2px;
+}
+
+.siopo p{
+    text-transform: uppercase;
+    padding: 0px 22px;
+    font-size: 34px;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-weight: bolder;
+}
+
+.drt{
+    display: flex;
+    cursor: pointer;
+}
+.image-image {
+   // position: absolute;
+   right: 0;
+   left: 0;
+    height: auto;
+    width: 100%;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    
+}
+
+.ser{
+    margin-left: 33px;
+    padding-top: 20px;
+    
+}

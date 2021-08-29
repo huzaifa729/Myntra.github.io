@@ -1,0 +1,359 @@
+
+.darling{
+    margin-left: 16px;
+    padding: 10px 5px;
+     display: flex;
+ 
+
+ 
+}
+
+
+.shelt{
+  display: flex;
+//   width: 50%;
+  padding-top: 30px;
+
+}
+
+
+
+
+.image-grid-image {
+
+     left: 0;
+    // z-index: 2;
+    width: 350px;
+    height: 340px;
+    background-repeat: no-repeat;
+    // background-position: 0 0;
+    // background-origin: border-box;
+     background-size: cover;
+     transition: transform .4s,-webkit-transform .4s;
+     will-change: transform;
+    margin: 1px 5px;
+ 
+}
+
+.image-grid-image:hover{
+    transform: scale(1.1); 
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1);
+}
+
+.Qwer{
+   width: 50%;
+    margin-left: 20px;
+    padding-top: 15px;
+}
+
+.huts{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 1px;
+}
+
+.loi{
+    color: gray;
+    font-size: 21px;
+   padding-top: 5px;
+}
+
+
+
+
+.kul{
+    display: flex;
+    padding-top: 20px;
+ 
+}
+
+.bell{
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.tyu{
+    color: grey;
+    font-size: 16px;
+    padding: 0px 3px;
+}
+
+.de{
+    color: #ff905a;
+    padding: 0px 5px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.hit{
+    color: #03a685;
+    font-weight: bold;
+    padding-top: 6px;
+    font-size: 13px;
+}
+
+
+.shirt{
+   
+    padding-top: 14px;
+}
+
+.bet{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 17px;
+
+}
+
+.verr{
+    padding-top: 30px;
+}
+.ert{
+    color: #ff3e6c;
+    border: 2px solid #ff3e6c;
+   font-weight: 500;
+   font-size: 16px;
+ border-radius: 50%;
+  padding: 13px;
+
+}
+
+
+
+
+
+.gtru{
+    padding-top: 50px;
+    display: flex;
+}
+
+.myntraweb{
+    color: white;
+}
+
+.bn{
+    background-color: #ff3e6c;
+    border: 1px solid #ff3e6c;
+    color: white;
+   width: 223px;
+   height: 55px;
+   cursor: pointer;
+   font-size: 16px;
+   font-weight: bold;
+}
+
+.bk{
+  margin-left: 25px;
+  width: 180px;
+  height: 51px;
+  background-color: white;
+  border: 1px solid #d4d5d9;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.bk:hover{
+    border: 1px solid rgb(46, 45, 45);
+}
+
+
+
+.ser{
+    padding-top: 20px;
+}
+
+
+.ser h4{
+    font-weight: 500;
+    text-transform: uppercase;
+     padding: 5px;
+}
+
+.tre{
+   padding: 0px 5px;
+    font-size: 22px;
+    color: forestgreen;
+}
+
+
+.sey input{
+   border: none;
+//  width: 50%;
+  flex: 1;
+ outline: none; 
+  padding: 0px 7px;
+  
+}
+
+.btns{
+   
+    border: none;
+    background-color: white;
+    color: rgba(112, 109, 109, 0.856);
+}
+
+.sey{
+    border: 1px solid rgb(163, 158, 158);
+    height: 44px;
+     display: flex;
+    width: 52%;
+    text-align: center;
+    border-radius: 2px;
+  
+}
+
+.but{
+     padding-top: 7px;
+    font-size: 12px;
+}
+
+.hy{
+    padding-top: 20px;
+}
+
+.ishq{
+    font-size: 16px;
+    padding: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-top: 5px;
+}
+
+.gr{
+    padding-top: 30px;
+}
+
+.swer{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
+
+
+.shall{
+    padding-top: 10px;
+}
+
+.ball{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+.kite{
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.shy{
+    font-size: 18px;
+padding-top: 5px;
+color: gray;
+}
+
+
+.uy{
+    padding-top: 5px;
+    font-size: 16px;
+}
+
+.sl{
+    list-style: none;
+    font-size: 15.9px;
+    letter-spacing: 1.2px;
+    padding: 3px;
+}
+
+.hul{
+    padding-top: 10px;
+    
+}
+.juu{
+    font-weight: 600;
+    color: 17px;
+}
+
+.bu{
+    list-style: none;
+    font-size: 15px;
+    color: gray;
+}
+
+
+
+.han{
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 12px;
+}
+
+.qr{
+    width: 50%;
+}
+
+.vr{
+    width: 50%;
+}
+
+.oi{
+    display: flex;
+    padding-top: 3px;
+}
+
+.bri{
+    color: gray;
+    font-size: 13px;
+  
+}
+
+.u{
+    font-size: 15px;
+ padding-top: 1px;
+}
+
+// .y{
+//     padding-top: 10px;
+//     font-size: 16px;
+//     color: #ff3e6c;
+// }
+
+
+
+
+ .dwx{
+    color: #ff3e6c;
+    font-size: 16px;
+    font-weight: 600; 
+    cursor: pointer;
+ }
+
+ .box{
+    font-size: 15px;
+    padding-top: 5px; 
+ }
+
+ .bo{
+     padding-top: 5px;
+     font-size: 16px;
+ }
+
+ .supplier-productSellerName{
+     display: inline-block;
+     color: #ff3e6c;
+     font-weight: 500;
+     cursor: pointer;
+ }
+
+ .dol{
+    color: #ff3e6c;
+    font-weight: 600;
+    cursor: pointer;
+    padding-top: 5px;
+    font-size: 13px;
+ }

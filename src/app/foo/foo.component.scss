@@ -1,0 +1,119 @@
+h5{
+    font-size: 14px;
+}
+
+.foot{
+    padding-top: 30px;
+    margin-left: 50px;
+}
+
+.rows{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+
+.desktop{
+
+    padding: 2px 5px;
+    background: red;
+    border-radius: 90px;
+    color: white;
+    font-size: 14px;
+    font-weight: 900;
+    margin: 0 0 0 5px;
+}
+
+
+ .couln{
+    margin-left: 75px;
+    padding-top: 12px;
+ }
+.couln a{
+    text-decoration: none;
+    color: #696b79;
+    padding: 2px;
+ display: flex;
+
+}
+
+.couln img{
+    height: 40px;
+    padding: 0px 2px;
+    cursor: pointer;
+}
+
+.couln p{
+    padding-top: 7px;
+}
+
+.couln i{
+    color: rgb(47, 44, 44);
+    cursor: pointer; 
+    padding: 1px 4px;
+    font-size: 24px;
+}
+
+
+.dol{
+    margin-top: 30px;
+  display: flex;
+  
+  }
+  
+  .dol span{
+      max-width: 48%;
+      padding: 0px 8px;
+      font-size: 17px;
+      color: #696b79;
+  }
+
+
+  
+  
+.biom{
+    font-size: 14px;
+   margin-left: 65px;
+    color: #696b79;
+}
+
+
+.khanif{
+    margin-left: 30px;
+    padding: 30px;
+}
+
+.khanif>a {
+    text-decoration: none;
+    color: #696b79;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.khanif>a:after {
+    content: "|";
+    margin-left: 2px 5px;
+    padding: 0px 5px;
+}
+
+.bil{
+    margin-left: 64px;
+    color: #696b79;
+    font-size: 17px;
+    display: flex;
+
+}
+
+.bil a{
+    color: blue;
+    text-decoration: none;
+    font-size: 19px;
+}
+.cal{
+    width: 50%;
+}
+.iop{
+  text-align: right;
+  top: 0;
+  width: 40%;
+}

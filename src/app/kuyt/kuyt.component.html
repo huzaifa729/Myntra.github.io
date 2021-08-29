@@ -1,0 +1,93 @@
+
+<div class="lup">
+<div class="iluy">
+    <p>Filters</p>
+</div>
+
+<div class="cert">Clear all</div>
+
+<div class="lio">
+<div class="collaps" id='f1' (click)="show('f1')">Bundles <span class="pull-right down-icon" [class.icon]="id==='f1'"><i class="fa fa-chevron-down"></i></span></div>
+<div class="kar" *ngIf="id ==='f1'">
+    <label class="check">
+        <input type="checkbox" value="Single Styles">
+        Single Styles
+    </label>
+</div>
+</div>
+
+<div class="lio">
+    <div class="collaps" id='f2' (click)="show('f2')">Country of Origin<span class="pull-right down-icon" [class.icon]="id==='f2'"><i class="fa fa-chevron-down"></i></span></div>
+    <div class="kar" *ngIf="id ==='f2'">
+        <label class="check">
+            <input type="checkbox" value="All Countries">
+            All Countries
+        </label>
+        
+        <label class="check">
+            <input type="checkbox" value="India">
+            India 
+        </label>
+    </div>
+    </div>
+
+    <div class="lio">
+        <div class="collaps" id='f3' (click)="show('f3')">Size <span class="pull-right down-icon" [class.icon]="id==='f3'"><i class="fa fa-chevron-down"></i></span> </div>
+        <div class="kar" *ngIf="id ==='f3'">
+            <label class="check">
+                <input type="checkbox" value="UK10">
+                UK10
+            </label>
+            
+            <label class="check">
+                <input type="checkbox" value="UK10.5">
+                UK10.5
+            </label>
+
+            <label class="check">
+                <input type="checkbox" value="UK6">
+                UK6
+            </label>
+            
+            <label class="check">
+                <input type="checkbox" value="UK6.5">
+                UK6.5
+            </label>
+
+            <label class="check">
+                <input type="checkbox" value="UK7">
+                UK7
+            </label>
+        </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">Sort By : <b>Recommended</b><i class="fa fa-chevron-down"></i></button>
+            <div class="dropdown-content">
+              <a href="#">What's New</a>
+              <a href="#">Popularity</a>
+              <a href="#">Better Discount</a>
+              <a href="#">Price High to Low</a>
+              <a href="#">Price Low to High</a>
+              <a href="#">Customer Rating</a>
+            </div>
+          </div>
+</div>
+
+
+<div class="shet">
+    <div class="der">
+        <mat-radio-group>
+            <mat-radio-button value="1">Boy</mat-radio-button>
+            <mat-radio-button value="2">Women</mat-radio-button>
+            <mat-radio-button value="3" checked mdbInput>Men</mat-radio-button>
+          </mat-radio-group>
+   </div>
+   <div class="nat">
+      <p> Sports Shoes <a routerLink="/nothing"><i class="fa fa-times"></i></a></p>
+   </div>
+</div>
+
+
+  
+  

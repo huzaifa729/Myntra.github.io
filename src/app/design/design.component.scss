@@ -1,0 +1,95 @@
+.ret{
+    display: flex;
+    padding-top: 20px;
+    margin-left: 15px;
+}
+
+.det li{
+    list-style: none;
+    font-size: 14px;
+
+ 
+}
+
+.det span{
+    color: grey;
+    font-size: 9px;
+    padding: 3px;
+}
+
+
+
+
+ h5{
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 15px;
+    font-size: 16px;
+    color: #282c3f;
+}
+
+.colour-colorDisplay {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
+.mat-radio-button{
+    padding: 3px;
+}
+
+.colour-label, .colour-more {
+    cursor: pointer;
+    // display: block;
+}
+
+
+.cerf img{
+    display: block;
+    width: 70%;
+}
+
+.cerf{
+ margin-left: 26px;
+    cursor: pointer;
+}
+.hyu span {
+    color: rgb(20, 201, 218);
+  }
+
+  .hyu{
+      font-weight: 500;
+      font-size: 13px;
+  }
+  .total{
+      font-weight: bold;
+      padding-top: 3px;
+      font-size: 15px;
+  }
+
+  .sew{
+      color: grey;
+      padding-top: 5px;
+  }
+
+  .dhol{
+      font-weight: bold;
+      padding-top: 2px;
+  }
+
+  .dhol del{
+      color: grey;
+      font-size: 11px;
+      padding: 3px;
+  }
+
+  .dhol span{
+    color: #ff905a;
+    padding: 3px;
+  }
+
+  .dhol p{
+    color: #ff905a;  
+  }

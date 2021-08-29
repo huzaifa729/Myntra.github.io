@@ -1,0 +1,188 @@
+h5{
+    font-size: 14px;
+}
+
+.rows{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+
+.foot{
+    padding-top: 30px;
+}
+
+.desktop{
+
+    padding: 2px 5px;
+    background: red;
+    border-radius: 90px;
+    color: white;
+    font-size: 14px;
+    font-weight: 900;
+    margin: 0 0 0 5px;
+}
+
+
+ .couln{
+    margin-left: 75px;
+    padding-top: 12px;
+ }
+.couln a{
+    text-decoration: none;
+    color: #696b79;
+    padding: 2px;
+display: flex;
+}
+
+.couln img{
+    height: 40px;
+    padding: 0px 2px;
+    cursor: pointer;
+}
+
+.couln p{
+    padding-top: 7px;
+}
+
+.couln i{
+    color: rgb(47, 44, 44);
+    cursor: pointer;
+    padding: 1px 4px;
+    font-size: 24px;
+}
+
+
+.dol{
+    margin-top: 30px;
+  display: flex;
+  
+  }
+  
+  .dol span{
+      max-width: 48%;
+      padding: 0px 8px;
+      font-size: 17px;
+      color: #696b79;
+  }
+
+  
+.biom{
+    font-size: 14px;
+   margin-left: 65px;
+    color: #696b79;
+}
+
+
+.khanif{
+    margin-left: 30px;
+    padding: 30px;
+}
+
+.khanif>a {
+    text-decoration: none;
+    color: #696b79;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.khanif>a:after {
+    content: "|";
+    margin-left: 5px;
+}
+
+.bil{
+    margin-left: 64px;
+    color: #696b79;
+    font-size: 17px;
+    display: flex;
+
+}
+
+.bil a{
+    color: blue;
+    text-decoration: none;
+    font-size: 19px;
+}
+.cal{
+    width: 50%;
+}
+.iop{
+  text-align: right;
+  top: 0;
+  width: 40%;
+}
+
+.dertr{
+    margin-left: 60px;
+    padding-top: 23px;
+}
+
+.dertr p{
+    color: #696b79;
+    font-size: 15px;
+    margin-left: 10px;
+    max-width: 90%;
+}
+
+.door ul{
+    max-width: 1220px;
+}
+
+.door li{
+    list-style: none;
+    color: #696b79;
+    font-size: 14px;
+    padding: 5px;
+}
+
+
+.FreeShippingBanner-sidebar-collapsed {
+    right: 0;
+}
+
+.FreeShippingBanner-sidebar {
+    position: fixed;
+    bottom: 130px;
+    width: 44px;
+    height: 288px;
+    background-color: #535766;
+    z-index: 6;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+    font-style: oblique;
+}
+
+.FreeShippingBanner-arrow-collapsed {
+    border-right: 14px solid #fff;
+}
+
+.FreeShippingBanner-arrow {
+    width: 0;
+    height: 0;
+    margin: 24px 16px;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+}
+
+.FreeShippingBanner-sidebar-content {
+   
+    writing-mode: vertical-rl;
+
+    transform: rotate(
+-180deg
+);
+    width: 36px;
+    padding: 10px;
+     height: 200px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    color: #fcfcfc;
+    display: inline-block;
+}
+

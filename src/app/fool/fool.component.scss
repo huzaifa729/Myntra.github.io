@@ -1,0 +1,247 @@
+
+
+.huio{
+    display: flex;
+    margin-left: 125px;
+    padding-top: 360px;
+}
+
+.delta{
+    width: 60%;
+   
+}
+      
+.ui{
+    text-align: center;
+    justify-content: center;
+    color: #696b79;
+    font-size: 15px;
+}
+
+.deta{
+    float: right;
+    width: 35%;
+}
+
+.text{
+    text-align: center;
+    justify-content: center; 
+    color: #696b79;
+    font-size: 15px;
+
+}
+.koi{
+    padding-top: 12px;
+}
+
+.koi p{
+    font-size: 13px;
+}
+
+.koi li{
+    list-style: none;
+    font-size: 14px;
+    color: #282c3f;
+}
+
+.hint{
+    display: flex;
+   margin-left: 36px;
+    padding-top: 7px;
+    color: #282c3f;
+}
+
+
+.hui{
+    width: 70%;
+    font-size: 12px;
+  
+}
+
+.tri{
+    width: 30%;
+    text-align: right;
+    font-size: 12px;
+}
+
+.index{
+    font-style: italic;
+    padding: 10px 0 0 32px;
+    font-weight: 700;
+}
+
+
+.row4{
+    display: flex;
+   flex-wrap: wrap;
+    
+ }
+ .desktop-superscript {
+     padding: 2px 7px;
+     background: red;
+     border-radius: 90px;
+     color: #fff;
+     font-weight: 900;
+     margin: 0 0 0 5px;
+     font-size: 12px;
+ }
+ 
+ .column a{
+     display: flex;
+     text-decoration: none;
+     color: #696b79;
+     padding: 2px;
+ 
+  
+ }
+ 
+ .column{
+    margin-left: 75px;
+   padding-top: 23px;
+   
+  
+ 
+ }
+
+ .footer{
+    
+     margin-left: 10px;
+ }
+ 
+ .column p{
+     padding: 4px;
+ }
+ 
+ 
+ h5{
+     font-size: 14px;
+ }
+ 
+ .desktop-androidDownLink{
+     height: 42px;
+     padding: 0px 7px;
+     cursor: pointer;
+ }
+ 
+ .desktop-iOSDownLink{
+     height: 41px;
+     cursor: pointer;
+ }
+ 
+ .column i{
+     color: #696b79;
+     font-size: 23px;
+     padding: 0px 7px;
+ }
+ 
+ .dol{
+   margin-top: 30px;
+   display: flex;
+ 
+ }
+ 
+ .dol span{
+     max-width: 45%;
+     padding: 0px 8px;
+     font-size: 17px;
+     color: #696b79;
+ }
+
+ 
+.biom{
+    font-size: 12px;
+   margin-left: 69px;
+    color: #696b79;
+}
+
+
+.khanif{
+    margin-left: 30px;
+    padding: 30px;
+    max-width: 93%;
+}
+
+.khanif>a {
+    text-decoration: none;
+    color: #696b79;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.khanif>a:after {
+    content: "|";
+    margin-left: 4px;
+}
+
+
+.bil{
+    margin-left: 64px;
+    color: #696b79;
+    font-size: 17px;
+    display: flex;
+
+}
+
+.bil a{
+    color: blue;
+    text-decoration: none;
+    font-size: 19px;
+}
+.cal{
+    width: 50%;
+}
+.iop{
+  text-align: right;
+  top: 0;
+  width: 40%;
+}
+
+.hyu{
+    right: 0;
+    position: fixed;
+    width: 44px;
+    height: 288px;
+    bottom: 130px;
+    cursor: pointer;
+    letter-spacing: .15em;
+    color: white;
+    background-color: #535766;
+    letter-spacing: 1px;
+    z-index: 3px;
+}
+
+.cert{
+    border-right: 14px solid white;
+    height: 0;
+    width: 0;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    margin: 12px 15px;
+}
+
+.shelt{
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 24px;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    letter-spacing: 1px;
+    padding: 5px;
+   font-style: italic;
+
+}
+
+button{
+    position: fixed;
+    bottom: 15px;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background:#575962;
+    right: 30px;
+    color: white;
+  }

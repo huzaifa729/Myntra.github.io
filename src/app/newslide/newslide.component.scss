@@ -1,0 +1,58 @@
+.image-image {
+    
+   
+    left: 0;
+    right: 0;
+    height: auto;
+    width: 100%;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+
+
+.card-image {
+    height: 100%;
+    width: 100%;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    transition: 0.2s all ease-in-out;
+    cursor: pointer;
+}
+
+.card-hideOverflow, .card-image {
+    position: relative;
+   left: 0;
+    right: 0;
+}
+.card-image:hover {
+    // -ms-transform: scale(1.9); /* IE 9 */
+    // -webkit-transform: scale(1.0); /* Safari 3-8 */
+    transform: scale(1.1);
+  }
+
+
+
+.deui{
+    display: flex;
+}
+
+.huin{
+    padding-top: 30px;
+    margin-left: 44px;
+}
+
+.huin p{
+    font-size: 34px;
+    font-weight: bold;
+    letter-spacing: .13em;
+    text-transform: uppercase;
+    color: #4e4a4a;
+    cursor: pointer;
+}
+
+.don2{
+    display: flex;
+    max-width: 94%;
+} 
+

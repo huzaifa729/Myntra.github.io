@@ -1,0 +1,237 @@
+
+.row4{
+   display: flex;
+  flex-wrap: wrap;
+   
+}
+.desktop-superscript {
+    padding: 2px 7px;
+    background: red;
+    border-radius: 90px;
+    color: #fff;
+    font-weight: 900;
+    margin: 0 0 0 5px;
+    font-size: 12px;
+}
+
+.column a{
+    display: flex;
+    text-decoration: none;
+    color: #696b79;
+    padding: 2px;
+
+ 
+}
+
+.column{
+   margin-left: 75px;
+  padding-top: 23px;
+  
+ 
+
+}
+
+.column p{
+    padding: 4px;
+}
+
+
+h5{
+    font-size: 14px;
+}
+
+.desktop-androidDownLink{
+    height: 42px;
+    padding: 0px 7px;
+}
+
+.desktop-iOSDownLink{
+    height: 41px;
+}
+
+.column i{
+    color: #696b79;
+    font-size: 23px;
+    padding: 0px 7px;
+}
+
+.dol{
+  margin-top: 30px;
+  display: flex;
+
+}
+
+.dol span{
+    max-width: 45%;
+    padding: 0px 8px;
+    font-size: 17px;
+    color: #696b79;
+}
+
+.biom{
+    font-size: 12px;
+   margin-left: 65px;
+    color: #696b79;
+}
+
+
+.khanif{
+    margin-left: 30px;
+    padding: 30px;
+}
+
+.khanif>a {
+    text-decoration: none;
+    color: #696b79;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.khanif>a:after {
+    content: "|";
+    margin-left: 3px;
+}
+
+.bil{
+    margin-left: 64px;
+    color: #696b79;
+    font-size: 17px;
+    display: flex;
+
+}
+
+.bil a{
+    color: blue;
+    text-decoration: none;
+    font-size: 19px;
+}
+.cal{
+    width: 50%;
+}
+.iop{
+  text-align: right;
+  top: 0;
+  width: 40%;
+}
+
+
+.columnn a{
+    display: flex;
+    text-decoration: none;
+    color: #696b79;
+    padding: 2px;
+    
+}
+
+.columnn{
+  margin-left: 81px;
+  padding-top: 23px;
+ 
+}
+
+.buio{
+ float: right;
+  padding-right: 172px;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.buio span{
+  color: blue;
+  cursor: pointer;
+}
+
+
+
+.data{
+    padding-top: 39px;
+    margin-left: 13px;
+  
+}
+
+.data h3{
+    margin-left: 40px;
+    font-size: 16px;
+
+}
+
+.data p{
+    color: #696b79;
+    margin-left: 43px;
+ max-width: 90%;
+    font-size: 16px;
+}
+
+.data ul{
+    margin-left: 45px;
+    max-width: 1120px;
+}
+
+.data li{
+    list-style: none;
+    color: grey;
+    padding: 12px ;
+    font-size: 13px;
+ 
+}
+
+.data strong{
+    color: black;
+}
+
+
+.FreeShippingBanner-sidebar-collapsed {
+    right: 0;
+}
+
+.FreeShippingBanner-sidebar {
+    position: fixed;
+    bottom: 130px;
+    width: 44px;
+    height: 288px;
+    background-color: #535766;
+    z-index: 6;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.FreeShippingBanner-arrow-collapsed {
+    border-right: 14px solid #fff;
+}
+
+.FreeShippingBanner-arrow {
+    width: 0;
+    height: 0;
+    margin: 24px 16px;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+}
+
+.FreeShippingBanner-sidebar-content {
+   
+    writing-mode: vertical-rl;
+
+    transform: rotate(
+-180deg
+);
+    width: 36px;
+    padding: 7px;
+    height: 200px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+  line-height: 30px;
+    margin-block-end: 0;
+
+    margin-block-start: 0;
+    color: #fcfcfc;
+    display: inline-block;
+}
+
+
+
+
+
+

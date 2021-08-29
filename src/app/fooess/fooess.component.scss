@@ -1,0 +1,170 @@
+
+
+
+.footer{
+    padding-top: 52px;
+}
+.row4{
+    display: flex;
+   flex-wrap: wrap;
+    
+ }
+ .desktop-superscript {
+     padding: 2px 7px;
+     background: red;
+     border-radius: 90px;
+     color: #fff;
+     font-weight: 900;
+     margin: 0 0 0 5px;
+     font-size: 12px;
+ }
+ 
+ .column a{
+     display: flex;
+     text-decoration: none;
+     color: #696b79;
+     padding: 2px;
+ 
+  
+ }
+ 
+ .column{
+    margin-left: 75px;
+   padding-top: 23px;
+   
+  
+ 
+ }
+ 
+ .column p{
+     padding: 4px;
+ }
+ 
+ 
+ h5{
+     font-size: 14px;
+ }
+ 
+ .desktop-androidDownLink{
+     height: 42px;
+     padding: 0px 7px;
+ }
+ 
+ .desktop-iOSDownLink{
+     height: 41px;
+ }
+ 
+ .column i{
+     color: #696b79;
+     font-size: 23px;
+     padding: 0px 7px;
+ }
+ 
+ .dol{
+   margin-top: 30px;
+   display: flex;
+ 
+ }
+ 
+ .dol span{
+     max-width: 45%;
+     padding: 0px 8px;
+     font-size: 17px;
+     color: #696b79;
+ }
+
+ .biom{
+    font-size: 12px;
+   margin-left: 65px;
+    color: #696b79;
+}
+
+.khanif{
+    margin-left: 30px;
+    padding: 30px;
+}
+
+.khanif>a {
+    text-decoration: none;
+    color: #696b79;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.khanif>a:after {
+    content: "|";
+    margin-left: 5px;
+}
+
+.bil{
+    display: flex;
+    margin-left: 62px;
+    color: #696b79;
+    font-size: 17px;
+}
+
+.bil a{
+    color: blue;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+.cal{
+    width: 60%;
+}
+
+.iop{
+    float: right;
+}
+
+.kiop{
+    right: 0;
+    position: fixed;
+    width: 44px;
+    height: 288px;
+    bottom: 130px;
+    cursor: pointer;
+    z-index: 6;
+    background-color: #535766;
+    letter-spacing: 1px;
+    color: white;
+}
+
+.sloip{
+    border-right: 14px solid white;
+    height: 0;
+    width: 0;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    margin: 13px 15px;
+}
+.sfert{
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 24px;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    padding: 6px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+
+
+
+   button {
+    position: fixed;
+    bottom: 15px;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background:#575962;
+    right: 30px;
+    color: white;
+  }
+
+  

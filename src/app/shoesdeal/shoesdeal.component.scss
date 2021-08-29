@@ -1,0 +1,41 @@
+.juy{
+    display: flex;
+    margin-left: 16px;
+    padding-top: 12px;
+}
+
+.hium{
+ list-style: none;
+    padding: 2px;
+    font-size: 16px;
+}
+
+
+
+.hium a{
+    text-decoration: none; 
+    color: black;
+}
+
+.hum:after{
+    content: "/";
+    padding: 2px;
+    font-size: 14px;
+}
+
+.sin{
+    font-weight: bold;
+}
+
+.crnt{
+    margin-left: 16px;
+    padding-top: 5px;
+    color: gray;
+}
+
+.crnt span{
+    font-weight: bolder;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}

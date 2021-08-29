@@ -1,0 +1,172 @@
+.doi li{
+    list-style: none;
+  
+}
+
+.doi input{
+    cursor: pointer;
+    
+}
+
+.doi{
+    padding-top: 31px;
+    margin-left: 18px;
+}
+
+
+
+ .koi{
+    display: flex;
+    width: 100%;
+ 
+ }
+
+.cse{
+    cursor: pointer;
+    padding: 0px 6px;
+    font-size: 15px;
+   
+}
+
+.ko{
+    color: rgb(161, 156, 156);
+    font-size: 12px;
+    padding: 0px 4px;
+
+}
+
+.serr{
+    color: #ff3f6c;
+    font-size: 15px;
+    margin-left: 14px;
+    margin-top: 6px;
+    cursor: pointer;
+}
+
+
+
+
+.hilter p{
+padding-top: 10px;
+font-weight: bold;
+}
+ .colour-colorDisplay {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+    margin-left: 9px;
+ }
+
+
+ .search-box{
+ 
+    position: absolute;
+    //   top: 50%;
+      left: 12%;
+     transform: translate(-50%,-50%);
+    // background: #2f3640;
+    height: 5px;
+    border-radius: 40px;
+}
+
+.search-btn{
+    color: #e84118;
+    float: right;
+    width: 40px;
+     height: 30px;
+    // border-radius: 50%;
+    background: #2f3640;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+
+}
+
+.search-txt{
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    // color: white;
+    font-size: 15px;
+    transition: 0.5s;
+    line-height: 40px;
+    width: 0px;
+    color: black;
+}
+
+.search-box:hover >  .search-txt{
+    width: 240px;
+   padding: 0px 6px;
+}
+
+.search-box:hover >  .search-btn{
+  background: white;
+}
+
+.juim{
+   position: absolute;
+  left: 20%;
+    width: 78%;
+    // border: 2px solid black;
+   flex-wrap: wrap;
+   cursor: pointer;
+}
+
+
+
+    .juim img{
+        width: 150px;
+       display: block;
+       
+    }
+
+    .lae{
+       float: left;
+       margin-right: 1%;
+        padding: 3px 42px;
+        margin: 3px;
+       
+    }
+ .checked{
+     color: rgb(15, 197, 197);
+     padding: 0px 4px;
+ }
+
+ .frog{
+     font-size: 13px;
+     margin-left: 15px;
+     font-weight: bold;
+ }
+
+ .del h6{
+     color: gray;
+     font-size: 13px;
+    padding-top: 5px;
+ }
+
+ .del{
+     font-weight: bold;
+ }
+
+ .huj{
+     font-weight: bold;
+    font-size: 13px;
+ }
+
+ .huj del{
+     color: grey;
+     font-size: 12px;
+ }
+
+ .huj a{
+     font-size: 13px;
+     color: #ff905a;
+     text-decoration: none;
+     padding: 0px 2px;
+ }
+

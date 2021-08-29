@@ -1,0 +1,140 @@
+
+
+.lup{
+    display: flex;
+    padding-top: 15px;
+}
+
+.iluy p{
+  text-transform: uppercase;
+  font-weight: bold;
+//   padding-top: 15px;
+   margin: 0px 14px;
+}
+
+.cert{
+    margin-left: 35px;
+    text-transform: uppercase;
+    color: #ff3f6c;
+    cursor: pointer;
+}
+
+.lio{
+     padding:  0px 16px;
+     margin-left: 22px;
+}
+
+.collaps{
+    font-size: 14px;
+    cursor: pointer;
+}
+
+
+.kar label{
+     padding: 0px 12px;
+    font-size: 13px;
+    padding-top: 13px;
+}
+
+
+
+.dropbtn {
+    border: 1px solid rgb(165, 160, 160);
+     color: black;
+   font-size: 16px;
+   background-color: white;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    margin-left: 15%;
+  
+   
+  }
+  
+  .dropdown-content {
+    border: 1px solid rgb(165, 160, 160);
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 228px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 3;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  
+  .dropdown:hover .dropdown-content {display: block;}
+
+  .dropbtn i{
+      margin-left: 25px;
+      font-size: 18px;
+      color: rgb(165, 160, 160);
+  
+   
+  }
+
+  .down-icon{
+    transition: 0.3s ease-in;
+   
+}
+
+.icon{
+ 
+  animation-name: icon;
+  transition: 0.3s ease-in;
+  transform: rotate(180deg);
+}
+
+.collaps i{
+   padding: 3px;
+  color: grey;
+  max-width: 1px;
+ min-width: 1px;
+}
+
+
+.mat-radio-group{
+  flex-direction: column-reverse;
+  display: flex;
+ padding-top: 12px;
+ margin-left: 12px;
+}
+
+.mat-radio-button{
+  padding: 3px;
+  font-weight: bold;
+ font-size: 15px;
+}
+
+.shet{
+  display: flex;
+}
+
+.nat{
+  margin-left: 94px;
+  padding-top: 4px;
+  
+}
+
+
+.nat p{
+  border: 1px solid grey;
+  border-radius: 20px;
+  border: 1px solid #d4d5d9;
+  padding: 2px 4px;
+}
+
+.nat i{
+  padding: 5px 19px;
+  color: grey;
+  cursor: pointer;
+}
+

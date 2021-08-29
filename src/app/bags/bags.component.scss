@@ -1,0 +1,34 @@
+.dreu{
+    padding-top: 34px;
+    margin-left: 44px;
+}
+
+.dreu p{
+    font-size: 34px;
+    text-transform: uppercase;
+    color: #3e4152;
+    font-weight: bold;
+    letter-spacing: .15em;
+}
+
+.loiu{
+    display: flex;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.koui img{
+   position: relative;
+}
+
+.image-image {
+    position: absolute;
+    left: 0;
+    right: 0;
+    // height:220px;
+    height: auto;
+    width: 100%;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    background: transparent;
+}

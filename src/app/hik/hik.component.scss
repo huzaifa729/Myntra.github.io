@@ -1,0 +1,33 @@
+.hint{
+  
+    list-style: none;
+ 
+}
+
+.huts{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding: 0px 4px;
+}
+
+.dert{
+    display: flex;
+    padding-top: 80px;
+    margin-left: 20px;
+}
+
+.werl{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+.hut{
+    margin-left: 4px;
+}
+
+.hut span{
+    color: gray ;
+    white-space: pre-wrap;
+}
